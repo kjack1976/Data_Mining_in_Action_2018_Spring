@@ -46,4 +46,4 @@ class Checker(object):
 
 
 if __name__ == '__main__':
-    print(Checker().check(SCRIPT_DIR + '/xgboost_params_example.json'))
+    print(Checker().check(SCRIPT_DIR + '/xgboost_Kjack.json'))
